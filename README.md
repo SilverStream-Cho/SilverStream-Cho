@@ -1,16 +1,28 @@
-### Hi there 👋
 
-<!--
-**SilverStream-Cho/SilverStream-Cho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Eunsaem Cho</h1>
+<h3 align="center">I'm studying to become a backend developer / from South Korea</h3>
 
-Here are some ideas to get you started:
+## 🌱 Interest
+- Backend web development (Python, Java, Go)
+- Frontend web development (Spring, js)
+- Solve programming problems at Codeforces, UVa, LeetCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📅 Hobbies
+- Watch anime and TV shows
+- Read some novels
+- Play rhythm game
+- Sing karaoke for two hours
+- etc...
+
+## 💻 Current project
+- Coming Soon
+
+## 📚 Learning
+- I’m currently learning on python & Java(From basic grammar)
+- Html, css, js with my lover 👩‍❤️‍👨(8-year front-end developer)
+
+## 🎵 Spotify status
+
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/track/3qonjOrhFCfTnaaMruHzxW?si=f97b90cfc490406a)
+</div>
