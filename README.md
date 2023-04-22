@@ -8,6 +8,7 @@
 - Solve programming problems at Codeforces, UVa, LeetCode
 
 ## 📅 Hobbies
+- Go for a walk with tamtam(The cutest puppy in the world)
 - Watch anime and TV shows
 - Read some novels
 - Play rhythm game
