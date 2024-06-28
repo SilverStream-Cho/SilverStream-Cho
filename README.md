@@ -27,7 +27,8 @@
 
 **[성과]**
 > - 장려상 수상
-> ![image](https://github.com/SilverStream-Cho/SilverStream-Cho/assets/130419593/8296bf92-a7b5-4ecf-8c92-7ba37f74f148, style="width: 400px; height: 100px;)
+> <img src="https://github.com/SilverStream-Cho/SilverStream-Cho/assets/130419593/8296bf92-a7b5-4ecf-8c92-7ba37f74f148" 
+     style="width: 400px; height: 300px;">
 
 
 
